@@ -1,0 +1,6 @@
+__pycache__
+*.zip
+archive
+cuisines_data.py
+Cities.py
+visao_geral_vf.ipynb
